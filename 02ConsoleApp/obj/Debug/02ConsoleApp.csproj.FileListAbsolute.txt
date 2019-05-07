@@ -1,0 +1,7 @@
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\bin\Debug\02ConsoleApp.exe.config
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\bin\Debug\02ConsoleApp.exe
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\bin\Debug\02ConsoleApp.pdb
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\obj\Debug\02ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\obj\Debug\02ConsoleApp.exe
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\obj\Debug\02ConsoleApp.pdb
+C:\Users\lucas.alves\source\repos\SlnTreinamento\02ConsoleApp\obj\Debug\02ConsoleApp.csprojAssemblyReference.cache
